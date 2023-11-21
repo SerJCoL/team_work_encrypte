@@ -20,14 +20,11 @@ b)	Ветка для изменений - branch
 3.	Enter login and pass from GitHub site
 4.	Connection and sync are successfully with GitHub repository
 
-
-•	требуется прикрепить ссылку на лежащий в проекте конфиг:
-
-
-
 •	инструкция для младших сотрудников по слиянию веток, какие команды надо выполнить, чтобы: 
 
 git clone git@github.com:SerJCoL/team_work_encrypte.git
+or
+https://github.com/SerJCoL/team_work_encrypte.git
 cd team_work_encrypte
 git status
 git checkout -b team-branch
