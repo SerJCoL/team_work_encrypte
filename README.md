@@ -1,6 +1,6 @@
 Documentation for new staff
 •	где располагается репозиторий с кодом, как посмотреть существующий код;
-a)	Https access: https://github.com/SerJCoL/team_work_encrypte.git
+a)	HTTPS access: https://github.com/SerJCoL/team_work_encrypte.git
 b)	SSH access: git@github.com:SerJCoL/team_work_encrypte.git
 
 •	как устроен процесс внесения своих изменений в основную кодовую базу;
@@ -15,7 +15,14 @@ b)	Ветка для изменений - branch
 
 
 •	как настроить свою среду разработки, 
-•	требуется прикрепить ссылку на лежащий в проекте конфиг;
+1.	Installing Visual Studio Code
+2.	Click on “Accounts” button
+3.	Enter login and pass from GitHub site
+4.	Connection and sync are successfully with GitHub repository
+
+
+•	требуется прикрепить ссылку на лежащий в проекте конфиг:
+
 
 
 •	инструкция для младших сотрудников по слиянию веток, какие команды надо выполнить, чтобы: 
